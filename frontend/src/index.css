@@ -1,0 +1,10 @@
+/* src/index.css */
+@import url('https://fonts.googleapis.com/css2?display=swap&family=Noto+Sans:wght@400;500;700;900&family=Work+Sans:wght@400;500;700;900');
+
+body {
+  font-family: 'Work Sans', 'Noto Sans', sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #fff;
+  color: #111518;
+}
